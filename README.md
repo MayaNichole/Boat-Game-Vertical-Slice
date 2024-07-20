@@ -16,7 +16,7 @@ Boat Game is a charming side-scroller where players take on the role of a wife s
 * Sell plants every Sunday, managing resources and time effectively.
 
 ## Upgrades:
-*Ship upgrades: Improve defenses and engine efficiency.
+* Ship upgrades: Improve defenses and engine efficiency.
 * Plant upgrades: Speed up plant growth, enhance plant seeds for better growth, more profit, or disease resistance.
 * Cosmetic upgrades: Customize the boat’s appearance and the plant area, and choose outfits and companion features.
 
