@@ -1,7 +1,6 @@
 # Prototype
 Boat Game is a charming side-scroller where players take on the role of a wife sailing through various iconic cities with waterways such as the Netherlands, Venice, and China, selling flowers and plants. The game also offers an alternative setting of a traveling merchant in the desert. Players will grow and maintain plants, upgrade their boat, manage resources, and face various challenges to become successful merchants.
 
-# Features
 ## Gameplay Mechanics
 ### Plant Management:
 * Start with 5 types of seeds, each requiring different levels of sunlight and water.
@@ -17,8 +16,8 @@ Boat Game is a charming side-scroller where players take on the role of a wife s
 * Implement a day/night cycle where some plants grow only during the day or night.
 * Sell plants every Sunday, managing resources and time effectively.
 
-# Upgrades:
-### Ship upgrades: Improve defenses and engine efficiency.
+## Upgrades:
+*Ship upgrades: Improve defenses and engine efficiency.
 * Plant upgrades: Speed up plant growth, enhance plant seeds for better growth, more profit, or disease resistance.
 * Cosmetic upgrades: Customize the boat’s appearance and the plant area, and choose outfits and companion features.
 
@@ -37,7 +36,7 @@ Boat Game is a charming side-scroller where players take on the role of a wife s
 * Decorate the plant area with various items.
 
 ## Character Customization:
-*Customize the player’s outfits.
+* Customize the player’s outfits.
 * Personalize the companion (dog or cat).
   
 ## Merchants
